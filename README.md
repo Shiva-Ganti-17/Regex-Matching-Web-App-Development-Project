@@ -1,6 +1,5 @@
 # Regex-Matching-Web-App-Development-Project
 
-# Regex Matching Web App
 
 This web application allows users to input a test string and a regular expression (regex) and displays all the matches found.
 
