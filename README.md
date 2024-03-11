@@ -16,7 +16,6 @@ To run this project locally, follow these steps:
 4. Run the Flask application:
 
 
-5. Open a web browser and navigate to http://localhost:5000 to access the application.
 
 ## Usage
 
@@ -34,7 +33,7 @@ You can also validate if a given email id is valid or not:
 
 ## Deployment
 
-This application is deployed on AWS Cloud. You can access it [here](http://34.227.79.77:5000/).
+This application is deployed on AWS Cloud. You can access it here:( http://44.203.187.205:5000/)
 
 ## Technologies Used
 
